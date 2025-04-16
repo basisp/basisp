@@ -1,5 +1,5 @@
 # KIM MINSANG 🚀
-# KIM MINSANG 🚀  
+
 [🔗 Portfolio & Projects (Notion)](https://bead-expansion-30a.notion.site/KIM-MINSANG-BACKEND-ENGINEER-1d2fcc726bad809786d5edf4230805fb)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=basisp)](https://solved.ac/basisp/)
