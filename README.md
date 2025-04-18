@@ -17,10 +17,10 @@
 
 ### Framework
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![Autogen](https://img.shields.io/badge/Autogen-4B8BBE.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white)
-![Autogen](https://img.shields.io/badge/Autogen-4B8BBE.svg?&style=for-the-badge&logo=python&logoColor=white)
+
 
 ### DevOps
 ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
